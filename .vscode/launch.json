@@ -1,0 +1,138 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug (Launch) - tutorialEleven",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "tutorialEleven",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) - tutorialTen",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "tutorialTen",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) - tutorialNine",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "tutorialNine",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) - polymorphism",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "polyApp",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) - interfaces",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "interfaceApp",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Inheritance (App)",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "App",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) - tutorial7",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "tutorialEight",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-tutorialFive",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "tutorialFive",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-tutorialFour",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "tutorialFour",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-tutorialOne",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "tutorialOne",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-tutorialSix",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "tutorialSix",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-tutorialThree",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "tutorialThree",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-tutorialTwo",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "tutorialTwo",
+      "args": ""
+    },
+  ]
+}
