@@ -6,6 +6,16 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Debug (Launch) - abstract classes",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "absApp",
+      "args": ""
+    },
+    {
+      "type": "java",
       "name": "Debug (Launch) - tutorialTwelve",
       "request": "launch",
       "cwd": "${workspaceFolder}",
@@ -14,7 +24,7 @@
       "mainClass": "tutorialTwelve",
       "args": ""
     },
-    
+
     {
       "type": "java",
       "name": "Debug (Launch) - tutorialEleven",
@@ -144,6 +154,6 @@
       "stopOnEntry": false,
       "mainClass": "tutorialTwo",
       "args": ""
-    },
+    }
   ]
 }
