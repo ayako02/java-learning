@@ -6,6 +6,26 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Debug (Launch) - Enum Type",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "enumApp",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) - inner classes",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "innerApp",
+      "args": ""
+    },
+    {
+      "type": "java",
       "name": "Debug (Launch) - abstract classes",
       "request": "launch",
       "cwd": "${workspaceFolder}",
