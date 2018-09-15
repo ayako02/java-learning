@@ -21,7 +21,6 @@ public class tutorialThree {
     Person person1 = new Person();
     person1.name = "John";
     person1.age = 30;
-    
     int years = person1.calYears();
     System.out.println("Years till retirements: " + years);
 
