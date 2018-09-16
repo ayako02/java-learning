@@ -6,6 +6,36 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Debug (Launch) - Hashed Maps",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "HashedMaps",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) - linked list",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "LinkedLists",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) - ArrayList",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "ArrayLists",
+      "args": ""
+    },
+    {
+      "type": "java",
       "name": "Debug (Launch) - passing by values",
       "request": "launch",
       "cwd": "${workspaceFolder}",
